@@ -1,0 +1,1 @@
+Beijing_7days 300 Beijing_JingjiangStar 400 Shanghai_7days 150 Shanghai_JingjiangStar 200
